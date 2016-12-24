@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/commons-codec-1.10.jar;lib/poi-excelant-3.16-beta1.jar;lib/commons-logging-1.2.jar;lib/commons-lang3-3.4.jar;lib/log4j-1.2.17.jar;lib/poi-examples-3.16-beta1.jar;lib/xmlbeans-2.6.0.jar;lib/poi-ooxml-3.16-beta1.jar;lib/poi-scratchpad-3.16-beta1.jar;lib/opencsv-3.8.jar;lib/poi-3.16-beta1.jar;lib/poi-ooxml-schemas-3.16-beta1.jar;lib/study-interfaces-1.0.jar;lib/commons-collections4-4.1.jar;lib/curvesapi-1.04.jar;lib/junit-4.12.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="generation.logger,generation.data.excel,generation.service.impl,generation.launcher,generation.template,generation.service" source="1.7" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="file:/C:/Users/Bogdan/workspace/task/doc/"/>
+        </javadoc>
+    </target>
+</project>
