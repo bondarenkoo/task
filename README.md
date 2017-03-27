@@ -1,2 +1,2 @@
 # task
-Generation data from excel to doc
+Generation data from excel to word
